@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cloudflare pages / wrangler
+.wrangler
+.pages
+.vercel/
+.next-on-pages/
+dist/
+
